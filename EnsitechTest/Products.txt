@@ -1,0 +1,2 @@
+{"name":"Producto 1","price":2,"origin":"Venezuela"}
+{"name":"Producto 2","price":4,"origin":"Malaysia"}
